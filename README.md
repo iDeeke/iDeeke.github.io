@@ -1,6 +1,6 @@
 <div style="display:flex;align-items: center; height: 64px;">
-<div><img src="images/logo-big.png" style="width:48px;"></div>
-<h3 style="margin-left: 12px";>Deeke抖音智能营销助手</h3>
+    <div><img src="images/logo-big.png" style="width:48px;"></div>
+    <h3 style="margin-left: 12px;">Deeke抖音智能营销助手</h3>
 </div>
 
 ---
