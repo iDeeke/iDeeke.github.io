@@ -2,6 +2,6 @@ title: Deeke
 description: Deeke抖音智能营销助手是一款基于Android无障碍技术的自动化操作工具
 remote_theme: pages-themes/architect@v0.2.0
 show_downloads: false
-qiwei_image: true
+qiwei_image: https://crm.yizetech.com.cn/api/qiwei/qrcode/
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
