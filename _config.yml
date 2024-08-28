@@ -1,5 +1,6 @@
 title: 
 description: Deeke抖音智能营销助手是一款基于Android无障碍技术的自动化操作工具，专为抖音用户设计，旨在通过自动化操作来实现高效的引流与客户互动。它模拟人工操作抖音平台上的各种功能，如点赞、评论、关注、私信和赞头像等，帮助您以更低的成本、更高的效率在抖音上吸引潜在客户并提升品牌曝光度。软件最新版本支持角色功能（比如你可以把软件设置为心理医生角色，软件将会根据心理医生的角色对视频进行评论)
 remote_theme: pages-themes/architect@v0.2.0
+show_downloads: false
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
