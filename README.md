@@ -1,9 +1,4 @@
-<div style="height: 64px;">
-    <div><img src="images/logo-big.png" style="width:48px;float:left;"></div>
-    <h3 style="margin-left: 12px;float:left;margin-top:12px">Deeke抖音智能营销助手</h3>
-</div>
-
----
+# <img src="images/logo-big.png" style="width:48px;float:left;margin-right: 12px;"> Deeke抖音智能营销助手
 
 #### 软件简介
 
