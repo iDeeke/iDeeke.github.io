@@ -104,12 +104,14 @@ Deeke抖音智能营销助手是一款基于Android无障碍技术的自动化�
 ---
 
 <script>
-    let tmp = window.location.href.split('?');
-    console.log(tmp);
-    if(tmp.length==2){
-        let linkId = tmp[1];
-        document.getElementById('img').src = document.getElementById('img').src + linkId;
-        document.getElementById('qiwei_image').src = document.getElementById('qiwei_image').src + linkId;
-        console.log(document.getElementById('img').src);
+    window.onload = function(){
+        let tmp = window.location.href.split('?');
+        console.log(tmp);
+        if(tmp.length==2){
+            let linkId = tmp[1];
+            document.getElementById('img').src = document.getElementById('img').src + linkId;
+            document.getElementById('qiwei_image').src = document.getElementById('qiwei_image').src + linkId;
+            console.log(document.getElementById('img').src);
+        }
     }
 </script>
